@@ -9,4 +9,4 @@ client: FMCG Strategy Assessment
 category: Data Analytics / Supply Chain
 description: >
   Conducted a current state assessment for a major FMCG company using Excel-based models. Analyzed supply chain KPIs, identified bottlenecks, and delivered recommendations to improve operational efficiency. Outputs included visual dashboards, scenario planning, and recommendations for network optimization.
-----
+---
