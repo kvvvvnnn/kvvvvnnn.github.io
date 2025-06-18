@@ -2,11 +2,11 @@
 layout: default
 modal-id: 1
 date: 2025-06-18
-img: fmcg-dashboard.png
-alt: FMCG supply chain dashboard
+img: FMCG.png
+alt: FMCG Current State Assessment
 project-date: June 2025
-client: FMCG Strategy Assessment
+client: Leading FMCG Retailer
 category: Data Analytics / Supply Chain
 description: >
-  Conducted a current state assessment for a major FMCG company using Excel-based models. Analyzed supply chain KPIs, identified bottlenecks, and delivered recommendations to improve operational efficiency. Outputs included visual dashboards, scenario planning, and recommendations for network optimization.
+  Conducted a current state assessment for a major FMCG company using Excel-based models. Analysis included assessment of demographic, operational & inventory data.
 ---
