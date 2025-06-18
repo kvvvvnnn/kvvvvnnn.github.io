@@ -9,7 +9,7 @@ client: Leading FMCG Retailer
 category: Data Analytics / Supply Chain
 description: >
   Conducted a current state assessment for a major FMCG company using Excel-based models. Analysis included assessment of demographic, operational & inventory data.
-  
- Download: [Download Excel File](assets/files/Current-State-Assessment-FMCG.xlsx)
+download: >
+[Download Excel File](assets/files/Current-State-Assessment-FMCG.xlsx)
 
 ---
