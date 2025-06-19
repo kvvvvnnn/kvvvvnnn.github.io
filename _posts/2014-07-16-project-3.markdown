@@ -2,7 +2,7 @@
 layout: default
 modal-id: 3
 date: 2025-06-18
-img: Dashboard.PNG
+img: 
 alt: Operational Work Order Dashboard
 project-date: June 2025
 client: Commercial Real Estate Firm
